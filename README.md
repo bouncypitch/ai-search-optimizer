@@ -3,7 +3,7 @@
 **Get recommended by the AI agents deciding where buyers go, without needing any traffic.**
 
 Built in one day, solo, at the AGI House *Living Internet* build day (Oct 10, 2026).
-[Website & demo](https://bouncypitch.github.io/agent-rank/) · [Demo video](docs/AgentRank_demo.mp4) · [Pre-registration](PREREGISTRATION.md)
+[Website & demo](https://bouncypitch.github.io/agentrank-ai-search-optimizer/) · [Demo video](docs/AgentRank_demo.mp4) · [Pre-registration](PREREGISTRATION.md)
 
 ![AgentRank summary](docs/thumbnail.png)
 
